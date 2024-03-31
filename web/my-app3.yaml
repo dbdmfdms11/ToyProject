@@ -53,5 +53,4 @@ spec:
     name: my-nginx-deployment3
   minReplicas: 1
   maxReplicas: 5
-  targetCPUUtilizationPercentage: 40
-
+  targetCPUUtilizationPercentage: 4
